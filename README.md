@@ -1,6 +1,8 @@
 ### Hi there, I'm Artur! 👋
-## Profile Views, Skills and Tools I use
+## Profile Views
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=artur3333&label=Profile%20Views&countColor=%23151515)](https://visitorbadge.io/status?path=artur3333)
+
+## Skills and Tools I use
 ![Pyhon](https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=python&logoColor=white&color=blue)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
