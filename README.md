@@ -21,7 +21,7 @@
 
 ## 💬 About Me
 
-⚡ Hello! I'm **Artur**, a person? It does not metter...
+⚡ Hello! I'm **Artur**, a person? It does not matter...
 
 - 🌍 **I live in:** Italy
 - 💻 **Main Programming Language:** Python
